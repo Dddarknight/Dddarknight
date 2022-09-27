@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Julia!
 
+- 🤔 I’m looking for a job as Junior Python developer.
+- 📫 [LinkedIn](https://www.linkedin.com/in/julia-egorycheva-b62640251/)
+- [CV] (https://cv.hexlet.io/resumes/1356)
+- [Hexlet profile](https://ru.hexlet.io/u/julia_egorycheva)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dddarknight&layout=compact&hide=css,html)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Dddarknight&count_private=true&show_icons=true)
