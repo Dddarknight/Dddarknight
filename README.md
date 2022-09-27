@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Julia!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dddarknight&layout=compact&hide=css,html)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Dddarknight&count_private=true&show_icons=true)
 
 <!--
 **Dddarknight/Dddarknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
