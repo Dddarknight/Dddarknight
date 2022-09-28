@@ -6,7 +6,7 @@
 
 Contact me!
 [![Gmail Badge](https://img.shields.io/badge/-9801677@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9801677@gmail.com)](mailto:9801677@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-julia-egorycheva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/julia-egorycheva-b62640251/)])
+[![Linkedin Badge](https://img.shields.io/badge/-julia-egorycheva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-egorycheva-b62640251/)](https://www.linkedin.com/in/julia-egorycheva-b62640251/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dddarknight&layout=compact&hide=css,html)
 
