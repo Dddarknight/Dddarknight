@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Julia!
 
 - 🤔 I’m looking for a job as Junior Python developer.
-- <a href="https://www.linkedin.com/in/julia-egorycheva-b62640251/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - [CV](https://cv.hexlet.io/resumes/1356)
 - [Hexlet profile](https://ru.hexlet.io/u/julia_egorycheva)
+
+Contact me!
+[![Gmail Badge](https://img.shields.io/badge/-9801677@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9801677@gmail.com)](mailto:9801677@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-julia-egorycheva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/julia-egorycheva-b62640251/)])
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dddarknight&layout=compact&hide=css,html)
 
@@ -11,7 +14,7 @@
 
 ### Skills and tools
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
