@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Julia!
 
-- 🤔 I’m looking for a job as Junior Python developer.
+- 🤔 I’m a graduate and I'm looking for a job as a Junior Python developer. I'm passionate about coding.
 - [CV](https://cv.hexlet.io/resumes/1356)
 - [Hexlet profile](https://ru.hexlet.io/u/julia_egorycheva)
 
