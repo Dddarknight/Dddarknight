@@ -2,7 +2,7 @@
 
 - 🤔 I'm looking for a job as a Python developer. I'm passionate about coding!
 - [CV](https://cv.hexlet.io/resumes/1356)
-- [Hexlet profile](https://ru.hexlet.io/u/julia_egorycheva)
+- [![Gitlab profile](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Dddarknight)
 
 ### Contact me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:9801677@gmail.com)](mailto:9801677@gmail.com)
